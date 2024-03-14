@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Senior Research Scientist, multimodal machine learning
+title:  
 
 # Name pronunciation (optional)
-name_pronunciation: Lingyu Zhang
+name_pronunciation:  
 
 # Full name (for SEO)
 first_name: Lingyu
