@@ -22,7 +22,7 @@ role: Senior Research Scientist, multimodal machine learning
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Samsung Research America
-    url: [https://www.stanford.edu/](https://sra.samsung.com/)
+    url: [https://sra.samsung.com/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include multimodal machine learning, computer vision.
