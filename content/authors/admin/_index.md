@@ -56,31 +56,31 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: PyTorch
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: OpenCV
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: RESEARCH TOPIC
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Multimodal Machine learning
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Vision-language models
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Generative models
         description: ''
         percent: 80
         icon: camera-retro
