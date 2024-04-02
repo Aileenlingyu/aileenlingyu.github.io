@@ -29,8 +29,8 @@ bio: My research interests include multimodal machine learning, computer vision.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Multimodal machine learning
+  - Vision language mdoels
   - Information Retrieval
 
 # Education to show in About widget
