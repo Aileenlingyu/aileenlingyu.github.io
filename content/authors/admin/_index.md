@@ -3,7 +3,7 @@
 title:  
 
 # Name pronunciation (optional)
-name_pronunciation:  
+name_pronunciation:  JAHNG, LEENG-YOO
 
 # Full name (for SEO)
 first_name: Lingyu
