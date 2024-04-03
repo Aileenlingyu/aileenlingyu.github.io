@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  
+title:  Lingyu Zhang
 
 # Name pronunciation (optional)
 name_pronunciation:  JAHNG, LEENG-YOO
