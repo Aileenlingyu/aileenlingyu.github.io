@@ -64,19 +64,18 @@ sections:
       items:
         - title: Senior Research Scientist
           company: Samsung Research America
-          company_url: ''
+          company_url: 'https://sra.samsung.com/'
           company_logo: org-gc
           location: California
-          date_start: '2022-09'
-          date_end: 'n/a'
+          date_start: '2022-09-06'
           description: Research in multimodal machine learning
         - title: Software Engineer II
           company: Didi Research America
-          company_url: ''
+          company_url: 'https://web.didiglobal.com/'
           company_logo: org-x
           location: California
-          date_start: '2021-10'
-          date_end: '2022-09'
+          date_start: '2021-11-01'
+          date_end: '2022-09-05'
           description: Develop machine learning and computer vision algorithms for object detection and recognition in the autonomous driving system.
     design:
       columns: '2'
