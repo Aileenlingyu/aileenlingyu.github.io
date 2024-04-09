@@ -45,47 +45,7 @@ education:
     - course: B.Eng in Electrical Engineering
       institution: Huazhong University of Science and Technology
       year: 2012
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: PyTorch
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: OpenCV
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: RESEARCH TOPIC
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Multimodal Machine learning
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Vision-language models
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Generative models
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
+  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
