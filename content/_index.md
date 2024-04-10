@@ -79,7 +79,7 @@ sections:
           description: Develop machine learning and computer vision algorithms for object detection and recognition in the autonomous driving system.
     design:
       columns: '2'
-  - block: TEACHING EXPERIENCE 
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
