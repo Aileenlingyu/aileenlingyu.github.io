@@ -68,7 +68,7 @@ sections:
           company_logo: org-gc
           location: California
           date_start: '2022-09-06'
-          description: Research in multimodal machine learning
+          description: Research in multimodal machine learning, knowledge and dialogue 
         - title: Software Engineer II
           company: Didi Research America
           company_url: 'https://web.didiglobal.com/'
