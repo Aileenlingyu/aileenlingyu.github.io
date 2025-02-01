@@ -61,7 +61,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/lingyuzhang-aileen/
   - icon: github
-    icon_pack: fab
+    icon_pack: brands
     link: https://github.com/Aileenlingyu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
