@@ -74,5 +74,5 @@ social:
 highlight_name: true
 ---
 
-Lingyu Zhang is a senior research scientist in Artificial Intelligence Center at Samsung Research America. Her research interests include multimodal machine learning, generative models, and information retrieval.
+Lingyu Zhang is a generative AI Engineer at Apple, prior to this, she was a research scientist in Artificial Intelligence Center at Samsung Research America. Her research interests include multimodal machine learning, generative models, and information retrieval.
 {style="text-align: justify;"}
