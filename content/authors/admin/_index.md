@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist, multimodal machine learning
+role: Generative AI Engineer, multimodal machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Samsung Research America
-    url: [https://sra.samsung.com/]
+  - name: Apple
+    url: [https://www.apple.com/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include multimodal machine learning, knowledge and dialogue and generative models.
