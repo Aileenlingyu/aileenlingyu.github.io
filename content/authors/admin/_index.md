@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Generative AI Engineer, multimodal machine learning
+role: LLM Machine Learning Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
